@@ -6,6 +6,7 @@
 // @description  Makes MT4 preview actually work in Chrome.
 // @include     https://mt.nm.cbc.ca/mt.cgi
 // @match      https://mt.nm.cbc.ca/mt.cgi
+// @updateURL	https://github.com/misener/Classy-MT4-Preview/raw/master/classyMT4preview.user.js
 // ==/UserScript==
  
 var previewTitle = "Preview | Movable Type Enterprise";
