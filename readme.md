@@ -8,4 +8,8 @@ Are you stuck on MT4 at the CBC? Is your **Preview** button useless in Chrome? H
 
 Now, when you click the **Preview** button in CBC's MT4 installation, you'll actually see a preview.
 
+<<<<<<< HEAD
 **Note:** you'll have to click the "back" button twice (quickly!) to return to MT4 for editing.
+=======
+**Note:** you'll have to click the "back" button twice (quickly!) to return to MT4 for editing.
+>>>>>>> FETCH_HEAD
