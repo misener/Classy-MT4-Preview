@@ -1,6 +1,6 @@
 # Classy MT4 Preview
 
-Are you stuck on MT4 at the CBC? Is your **Preview** button useless? Here's a fix:
+Are you stuck on MT4 at the CBC? Is your **Preview** button useless in Chrome? Here's a fix:
 
 1. Install the [TamperMonkey extension for Google Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo).
 
